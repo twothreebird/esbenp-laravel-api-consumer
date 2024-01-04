@@ -1,7 +1,8 @@
 repo_name: twothreebird/esbenp-laravel-api-consumer
 report_id: 421cd0447e0606a43ba2aeb9044b3ced
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T14:28:11+00:00'
+timestamp: '2024-01-04T14:55:59+00:00'
 requested_by: ch00n
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/twothreebird/esbenp-laravel-api-consumer
   detection_source: Repo Metadata
 - name: Laravel
   description: A PHP Framework For Web Artisans
@@ -26,7 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
-  detection_source_url: composer.json
+  detection_source_url: https://github.com/twothreebird/esbenp-laravel-api-consumer/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Trevor
   last_updated_on: 2022-09-15 12:52:01.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/twothreebird/esbenp-laravel-api-consumer
   detection_source: Repo Metadata
 - name: PHPUnit
   description: Testing framework for PHP
@@ -49,7 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
-  detection_source_url: composer.json
+  detection_source_url: https://github.com/twothreebird/esbenp-laravel-api-consumer/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Esben Petersen
   last_updated_on: 2015-06-24 20:14:52.000000000 Z
@@ -62,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/twothreebird/esbenp-laravel-api-consumer/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Esben Petersen
   last_updated_on: 2015-06-24 20:49:53.000000000 Z
